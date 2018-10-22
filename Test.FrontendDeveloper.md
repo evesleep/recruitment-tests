@@ -15,7 +15,7 @@ Please make this a single zip file named `{yourname}-frontend-developer.zip` con
 * Your task is to create an HTML file (and any additional JS/CSS files you need) which displays a product list page utilising the JSON in [this sample product data](Product-Data/product-data-example.md)
 * We want to see your ability to write semantic, valid mark-up & resuable & maintainable CSS & Javascript.
 
-___Please note:___ _there is no time limit to this test, spend as much or as little time on it as you wish. Example designs can be found [here](example-designs) if you need some inspiration._
+___Please note:___ _there is no time limit to this test, spend as much or as little time on it as you wish._
 
 ### Requirements
 * It should be responsive (mobile first)
