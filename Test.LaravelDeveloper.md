@@ -16,25 +16,27 @@ Please make this a single zip file named `{yourname}-backend-developer-(laravel)
 * API should include support for CRUD operations for products and attributes.
 * You should design a database structure, and include a seeder to populate sample data.
 * The endpoint should support searching & filtering for products by: sku, name or attributes.
-* We want to see you demonstrate a deep understanding of Laravel
+* We want to see you demonstrate a deep understanding of Laravel.
 
 ___Please note:___ _there is no time limit to this test, spend as much or as little time on it as you wish._
 
 ### Requirements
 * Written in Laravel
 * Design DB structure and a seeder to populate sample data
+* You should feel free to modify the data structure if needed.
 
 
 ### Bonus Points
 * Use a TDD approach to development.
 * Add JWT/OAuth2 authentication to your api.
 * Ehance search functionality to include price from/to functionality.
+* Add a caching solution to the endpoint.
 
 ## Technical Questions
 Please answer the following questions in a markdown file called `Answers to technical questions.md`
 
 1. How long did you spend on the coding test? What would you add if you had more time? If you didn't spend much time on it, use this to explain what you would have done.
-2. 
+2. What do you think are the best and worst features of PHP7.x, why?
 3. What is your favourite Laravel feature, why?
 4. Describe yourself in JSON.
 
